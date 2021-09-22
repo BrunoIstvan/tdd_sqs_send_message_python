@@ -1,0 +1,2 @@
+class InvalidSQSParametersException(Exception):
+    pass
